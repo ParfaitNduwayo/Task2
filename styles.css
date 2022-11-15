@@ -28,10 +28,7 @@
   }
   .navigation_links {
     display: flex;
-    flex-wrap: wrap;
-    //justify-content: center;
-    align-items: center;
-    
+    flex-wrap: wrap;   
   }
   .navigation_links a{
     padding-top: 20px;
